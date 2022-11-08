@@ -1,1 +1,1 @@
-# seriesDatabase
+# Cette application React utilise de l'information se trouvant dans une base de données pour l'afficher de façon dynamique.
